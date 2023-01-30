@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace LeetCodeProblems.Homework
 {
-    internal class ConsolePrint
+    public class ConsolePrint
     {
-        private void Print()
+        public void Print()
         {
             bool temp = true;
             do
