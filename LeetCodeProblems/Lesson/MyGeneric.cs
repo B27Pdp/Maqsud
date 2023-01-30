@@ -2,7 +2,6 @@
         where T : unmanaged
         where K : class
         where U : notnull, IDisposable, new()
-        //where U : notnull
     {
 
         public T? TProp { get; set; }

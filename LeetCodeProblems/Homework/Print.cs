@@ -47,7 +47,7 @@ namespace LeetCodeProblems.Homework
         public void AddValue()
         {
 
-            Console.Write("Enter the numbers!");
+            Console.WriteLine("Enter the numbers!");
 
             bool temp = true;
             bool isnumber = false;
