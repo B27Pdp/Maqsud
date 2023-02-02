@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\bin\Debug\net7.0\OnlineEducationPlatform.exe
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\bin\Debug\net7.0\OnlineEducationPlatform.deps.json
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\bin\Debug\net7.0\OnlineEducationPlatform.runtimeconfig.json
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\bin\Debug\net7.0\OnlineEducationPlatform.dll
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\bin\Debug\net7.0\OnlineEducationPlatform.pdb
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\obj\Debug\net7.0\OnlineEducationPlatform.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\obj\Debug\net7.0\OnlineEducationPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\obj\Debug\net7.0\OnlineEducationPlatform.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\obj\Debug\net7.0\OnlineEducationPlatform.AssemblyInfo.cs
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\obj\Debug\net7.0\OnlineEducationPlatform.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\obj\Debug\net7.0\OnlineEducationPlatform.dll
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\obj\Debug\net7.0\refint\OnlineEducationPlatform.dll
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\obj\Debug\net7.0\OnlineEducationPlatform.pdb
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\obj\Debug\net7.0\OnlineEducationPlatform.genruntimeconfig.cache
+C:\Users\acer\source\repos\LeetCodeProblems\OnlineEducationPlatform\obj\Debug\net7.0\ref\OnlineEducationPlatform.dll

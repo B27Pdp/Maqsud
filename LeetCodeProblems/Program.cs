@@ -1,11 +1,20 @@
 ﻿using LeetCodeProblems.Homework;
 using LeetCodeProblems.Homework._30._01._2023;
+using LeetCodeProblems.Homework.Delegation;
 using LeetCodeProblems.Lesson;
+using LeetCodeProblems.Lesson.Delegates;
 
 class Program
 {
     static void Main(string[] args)
     {
+
+       // Mathematics mathematics = new Mathematics();
+        // mathematics.Start();
+        DelegateList delegateList = new DelegateList();
+        delegateList.Start();
+
+
         /*List<int> list= new List<int>() { 1, 2, 3 };  
         IEnumerator<int> enumerator= list.GetEnumerator();
         Console.WriteLine(enumerator.MoveNext());
@@ -37,8 +46,14 @@ class Program
 
         list.DeleteMyInfo();
         */
-        CompleteList completeList = new CompleteList();
-        completeList.Complete();
+        //Delegates delegates = new Delegates();
+        //Delegates.DoSomething(Delegates.SendMessage);
+       
+        
+            
+        
+
+       
 
         
         
