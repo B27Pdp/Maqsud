@@ -26,6 +26,15 @@ namespace LeetCodeProblems.Lesson.Delegates
         {
             return DateTime.Now.ToString();
         }
+        public delegate int Mynum(int a);
+        public static void AnonymusDelegate()
+        {
+            Mynum mynum = delegate (int a)
+            {
+                return a;
+            };
+                 
+        }
       
     }
     class A

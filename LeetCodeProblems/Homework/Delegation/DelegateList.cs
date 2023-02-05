@@ -39,7 +39,6 @@ namespace LeetCodeProblems.Homework.Delegation
             list.Add(6);
             MinAndMax minAndMax = FindMinMax;
             Console.WriteLine(minAndMax.Invoke(list));
-
         }
     }
 }
