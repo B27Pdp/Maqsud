@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeProblems", "LeetCodeProblems\LeetCodeProblems.csproj", "{D573A8B0-FCD1-4C1F-8A7F-A58AC4A53C2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEducationPlatform", "OnlineEducationPlatform\OnlineEducationPlatform.csproj", "{DD95E182-DC03-46C5-8A1E-99824F4A7223}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineEducationPlatform", "OnlineEducationPlatform\OnlineEducationPlatform.csproj", "{DD95E182-DC03-46C5-8A1E-99824F4A7223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{95102D89-918F-4D7A-BF14-352EA75680C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DD95E182-DC03-46C5-8A1E-99824F4A7223}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD95E182-DC03-46C5-8A1E-99824F4A7223}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD95E182-DC03-46C5-8A1E-99824F4A7223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95102D89-918F-4D7A-BF14-352EA75680C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95102D89-918F-4D7A-BF14-352EA75680C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95102D89-918F-4D7A-BF14-352EA75680C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95102D89-918F-4D7A-BF14-352EA75680C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

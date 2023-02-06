@@ -5,6 +5,7 @@ using LeetCodeProblems.Lesson;
 using LeetCodeProblems.Lesson.Delegates;
 using LeetCodeProblems.Lesson.Events;
 using System.Security.Cryptography.X509Certificates;
+using System.Text.RegularExpressions;
 
 class Program
 {
@@ -21,8 +22,10 @@ class Program
         subscriber.SendSmsMesage();
         publisher.ShowAllMessages();
        */
-       Operations operations = new Operations();
-        operations.Start();
+        string message = Console.ReadLine();
+        Console.WriteLine(Regex.IsMatch(message,"^[a-z1-9]{10}$"));
+
+
 
 
     } 
