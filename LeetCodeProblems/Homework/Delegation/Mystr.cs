@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCodeProblems.Homework
+namespace MyLessons.Homework.Delegation
 {
     internal class Mystr
     {
@@ -15,9 +15,9 @@ namespace LeetCodeProblems.Homework
                 Console.WriteLine("Matnni kiriting");
                 string str = Console.ReadLine();
                 throw new ArgumentNullException("Kiritilgan matn bo'sh bo'lmasligi kerak");
-                
+
             }
-            catch(ArgumentNullException e)
+            catch (ArgumentNullException e)
             {
                 Console.WriteLine(e.Message);
             }

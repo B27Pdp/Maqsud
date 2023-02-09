@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCodeProblems.Homework
+namespace MyLessons.Homework.myCard
 {
     class NumberFound
     {
@@ -19,7 +19,7 @@ namespace LeetCodeProblems.Homework
             List<int> list = new List<int>();
             for (int i = 0; i < 30; i++)
             {
-                list.Add((new Random()).Next(70));
+                list.Add(new Random().Next(70));
             }
             myNumberEvent?.Invoke(list);
 

@@ -1,0 +1,5 @@
+C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\net7.0\MyLessons.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\net7.0\MyLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\net7.0\MyLessons.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\net7.0\MyLessons.AssemblyInfo.cs
+C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\net7.0\MyLessons.csproj.CoreCompileInputs.cache
