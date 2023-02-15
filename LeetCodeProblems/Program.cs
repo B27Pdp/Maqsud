@@ -1,15 +1,4 @@
-﻿using LeetCodeProblems.Homework;
-using LeetCodeProblems.Homework._30._01._2023;
-using LeetCodeProblems.Homework.Delegation;
-using LeetCodeProblems.Homework.Mafia;
-using LeetCodeProblems.Homework.Mafia.MafiaInLesson;
-using LeetCodeProblems.Lesson;
-using LeetCodeProblems.Lesson.DateTime1;
-using LeetCodeProblems.Lesson.Delegates;
-using LeetCodeProblems.Lesson.Events;
-using LeetCodeProblems.Lesson.Files;
-using System.Security.Cryptography.X509Certificates;
-using System.Text.RegularExpressions;
+﻿using JsonAddAndUpdate;
 
 class Program
 {
@@ -44,11 +33,22 @@ class Program
         //WorkingWithFiles.Start();
         //WorkingWithFiles.AllLines();
         //WorkingWithFiles.CopyFile();
-        //LearningFiles.Run();
         //WorkingWithFiles.CombineMultipleFilesIntoSingleFile();
-        string path = "D:\\New folder";
+        //ReadFiles readFiles = new ReadFiles();
+        //readFiles.ReadF("C:\\Users\\acer\\source\\repos\\LeetCodeProblems\\LeetCodeProblems\\Person\\PersonData1.txt");
+        //LearningFiles learningFiles = new LearningFiles();
+        //Regestration regestration = new Regestration();
+        //regestration.Menyu();
+        //XML_Examples xML_Examples = new XML_Examples();
+        //XML_Examples.Run();
+        //Person1 person = new Person1("Feruz", 19, 1);
+        //XML_Examples.Add(person);
+        MyJsonExample myJsonExample = new MyJsonExample();
+        MyJsonExample.Run();
 
-       
+
+
+
 
 
 

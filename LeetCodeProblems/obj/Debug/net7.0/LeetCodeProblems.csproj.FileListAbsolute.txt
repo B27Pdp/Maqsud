@@ -13,3 +13,6 @@ C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\net7.0\re
 C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\net7.0\LeetCodeProblems.pdb
 C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\net7.0\LeetCodeProblems.genruntimeconfig.cache
 C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\net7.0\ref\LeetCodeProblems.dll
+C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\obj\Debug\net7.0\LeetCodeProblems.csproj.CopyComplete
+C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\bin\Debug\net7.0\System.Text.Json.dll

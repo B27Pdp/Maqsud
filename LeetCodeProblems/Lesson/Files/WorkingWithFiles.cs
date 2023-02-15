@@ -48,15 +48,41 @@ namespace LeetCodeProblems.Lesson.Files
             File.AppendAllText(path3, File.ReadAllText(path2));
 
         }
+        public static void Search()
+        {
+            DirectoryInfo directoryinfo = new DirectoryInfo("d:\\New folder");
+            FileInfo[] fileinfo = directoryinfo.GetFiles();
+            int length = fileinfo.Length;
+            string? fileName = Console.ReadLine();
+            for (int i = 0; i < length; i++)
+            {
+                if (fileinfo[i].ToString().Contains(fileName))
+                {
+                    Console.WriteLine(fileinfo[i].ToString());
+                }
+
+            }
+            int length2 = directoryinfo.GetDirectories().Length;
+            DirectoryInfo[] directories = directoryinfo.GetDirectories();
+            for (int i = 0; i < length2; i++)
+            {
+                if (directories[i].ToString().Contains(fileName))
+                {
+                    Console.WriteLine(directories[i].ToString());
+                }
+
+            }
+            //foreach (FileInfo file in fileinfo)
+            //{
+            //    Console.WriteLine(file.FullName);
+            //}
 
 
         }
 
-
     }
 
 
-
-
 }
+
 

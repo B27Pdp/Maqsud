@@ -1,0 +1,17 @@
+{
+  "id": 123,
+  "name": "Maqsud Haydarov",
+  "address": {
+    "street": "Amir Temur",
+    "city": "Tashkent",
+    "zipcode": 95014
+  },
+  "experiences": [
+    {
+      "companyid": 1234,
+      "companyname": "helllo"
+    }
+  ],
+  "phoneNumber": 9988664422,
+  "role": "Developer"
+}
