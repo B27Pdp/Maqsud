@@ -1,0 +1,23 @@
+{
+  "client": null,
+  "collectionName": null,
+  "dateExported": "0001-01-01T00:00:00",
+  "version": null,
+  "folders": [],
+  "requests": [
+    {
+      "containerId": null,
+      "sortNum": 0,
+      "headers": null,
+      "colId": null,
+      "name": null,
+      "url": null,
+      "method": "POST",
+      "modified": "0001-01-01T00:00:00",
+      "created": "2023-02-17T08:39:10.0406636+05:00",
+      "_id": null,
+      "params": null,
+      "tests": null
+    }
+  ]
+}

@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace JsonAddAndUpdate
 {
-    class MyJsonExample
+    class TODo
     {
         private string jsonFile = @"C:\Users\acer\source\repos\LeetCodeProblems\LeetCodeProblems\Lesson\Json\tsconfig1.json";
         private void AddCompany()
@@ -38,7 +38,7 @@ namespace JsonAddAndUpdate
                 }
             }
             else
-                Console.WriteLine("Bu id band");
+                Console.WriteLine("Already used");
           
         }
 
@@ -152,7 +152,7 @@ namespace JsonAddAndUpdate
         }
         public static void Run()
         {
-            MyJsonExample objProgram = new JsonAddAndUpdate.MyJsonExample();
+            TODo objProgram = new JsonAddAndUpdate.TODo();
             Menyu:
             Console.WriteLine("Choose Your Options : \n 1 - Add \n 2 - Update \n 3 - Delete \n 4 - Select \n");
             var option = Console.ReadLine();

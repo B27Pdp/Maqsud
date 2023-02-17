@@ -1,4 +1,9 @@
 ﻿using JsonAddAndUpdate;
+using LeetCodeProblems.Homework.JsonHomeWorks;
+using LeetCodeProblems.Homework.JsonShop;
+using LeetCodeProblems.Homework.Task3;
+using LeetCodeProblems.Homework.ToDoList;
+using LeetCodeProblems.Lesson.Json.JsonShop;
 
 class Program
 {
@@ -43,9 +48,15 @@ class Program
         //XML_Examples.Run();
         //Person1 person = new Person1("Feruz", 19, 1);
         //XML_Examples.Add(person);
-        MyJsonExample myJsonExample = new MyJsonExample();
-        MyJsonExample.Run();
-
+        //MyJsonExample myJsonExample = new MyJsonExample();
+        //MyJsonExample.Run();
+        //JsonRun jsonRun = new JsonRun();
+        //Console.WriteLine(jsonRun.GetAll());
+        JsonShopRun jsonShopRun = new JsonShopRun();
+        jsonShopRun.RunShop();
+        ToDoRun.Run();
+        //Task3Run task3Run = new Task3Run();
+        //Task3Run.Run();
 
 
 
