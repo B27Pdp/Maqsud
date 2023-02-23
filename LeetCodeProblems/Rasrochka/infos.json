@@ -1,0 +1,29 @@
+﻿[
+  {
+    "PassportId": "ABC12345",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "IsDebt": true,
+    "IsImprison": false,
+    "IsMarried": true,
+    "Salary": 4000000
+  },
+  {
+    "PassportId": "AC234",
+    "FirstName": "Maqsud",
+    "LastName": "Haydarov",
+    "IsDebt": false,
+    "IsImprison": false,
+    "IsMarried": false,
+    "Salary": 12000000
+  },
+  {
+    "PassportId": "DF567",
+    "FirstName": "Alex",
+    "LastName": "Johnson",
+    "IsDebt": true,
+    "IsImprison": true,
+    "IsMarried": true,
+    "Salary": 3500000
+  }
+]
